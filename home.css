@@ -1,0 +1,58 @@
+body{
+
+    background-color: lightblue;
+}
+
+ul{
+    margin: 0px;
+    padding: right 2px
+    
+    
+}
+
+li{
+
+    display: inline;
+    
+}
+
+
+li a{
+
+    display: inline-block;
+    color: orangered;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-style: italic bold;
+    
+
+}
+
+.centerpic{
+
+    display: block;
+    width: 34%;
+    margin: auto;
+}
+
+.fa-linkedin { 
+    background: #007bb5; 
+    color: white; 
+}
+
+.social{
+
+    text-decoration: none;
+    margin: 0 10px;
+    
+    
+
+
+}
+
+.social:hover{
+
+    color: yellowgreen;
+}
+
